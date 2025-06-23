@@ -660,6 +660,7 @@ Tomoya Okuno, motonuko<br/>
 2411406 - napoleon-na </br>
 2511205 - Daichi Nakagawa - Daichi343 </br>
 2511141 - Zhijian Zhang (id: JasonZhijian) </br>
+2411431 - DeathGun3344 </br>
 2511294 - Mori-Eish </br>
 2511337 - Luo Xiangkun - Luo0105
 2511180 - Masaru Tanibata </br>
