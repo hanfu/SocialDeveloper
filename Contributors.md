@@ -22,6 +22,9 @@ studentID - username <br/>
 2411126 - Shota Sakoda<br/>
 2411124 - Chihiro Sakai<br/>
 2511270 - Moeka Makabe<br/>
+2411314 - Miku Watanabe , mmikuu
+2511324 - Daisuke Watanabe <br/
+2511348 - kally1218 <br/>
 2411314 - Miku Watanabe , mmikuu <br/>
 2511280 - Hinata Mamoru <br/>
 2511324 - Daisuke Watanabe <br/>
