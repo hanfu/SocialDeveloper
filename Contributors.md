@@ -73,6 +73,7 @@ studentID - username <br/>
 2311272 - Takuma Miwa <br/>
 1911404 - Takuro Niitsuma<br/>
 2211246 - Higaki-Akihiro<br/>
+2511198 - Tomizawa Satoru<br/>
 2111089 - Shogo Kanda<br/>
 2111411<br/>
 2211072 - Miyu Oba<br/>
@@ -660,6 +661,8 @@ Tomoya Okuno, motonuko<br/>
 2411406 - napoleon-na </br>
 2511205 - Daichi Nakagawa - Daichi343 </br>
 2511141 - Zhijian Zhang (id: JasonZhijian) </br>
+2511294 - Mori-Eish </br>
+2511198 - Tomizawa Satoru<br/>
 2411431 - DeathGun3344 </br>
 2511294 - Mori-Eish </br>
 2511337 - Luo Xiangkun - Luo0105
