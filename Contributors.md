@@ -1,6 +1,6 @@
 studentID - username <br/>
 2511238 - Shogo Hayashi - ShogoHayashi8850<br/>
-2511090 - Manato Kinoshita<br/>
+2511090 - Manato-04<br/>
 2311065 - Otsubo Hiromu<br/>
 2511069 - Haruhiko Kataoka <br/>
 2511055 - Hikaru OKAMOTO <br/>
