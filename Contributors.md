@@ -6,7 +6,7 @@ studentID - username <br/>
 2511248 - Yamato Himi - yamatohimi<br/>
 2511280 - Hinata Mamoru - mamoru4949<br/>
 2511238 - Shogo Hayashi - ShogoHayashi8850<br/>
-2511090 - Manato Kinoshita<br/>
+2511090 - Manato-04<br/>
 2311065 - Otsubo Hiromu<br/>
 2511069 - Haruhiko Kataoka <br/>
 2511055 - Hikaru OKAMOTO <br/>
@@ -17,6 +17,7 @@ studentID - username <br/>
 2511301 - Natsuho Yasugi<br/>
 2411088 - Kikuta Masaru <br/>
 2411261 - Matsuzaki Yuhi<br/>
+2511340 - RubyShe <br/>
 2411050 - Hien Onaka<br/>
 2511267 - Tappei Maekawa<br/>
 2411126 - Shota Sakoda<br/>
@@ -642,6 +643,7 @@ L200194209 - Fadhlih Hasan Setiawan <br/>
 2511205 - Daichi Nakagawa - Daichi343 </br>
 2511141 - Zhijian Zhang (id: JasonZhijian) </br>
 2511294 - Mori-Eish </br>
+2511012 - AriRyo</br>
 2511024	- Keitaro Ito </br>
 2511294 - Mori-Eish </br>
 2411427 - Suwanachote Nabhan (id:nabhan-au)<br/>
