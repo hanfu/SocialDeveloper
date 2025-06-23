@@ -8,6 +8,7 @@ studentID - username <br/>
 2311065 - Otsubo Hiromu<br/>
 2511069 - Haruhiko Kataoka <br/>
 2511055 - Hikaru OKAMOTO <br/>
+2511027 - Koki Inae <br/>
 2511192 - Yuta Tsutsumi <br/>
 2411262 - Kanta Matsubara<br/>
 2511301 - Natsuho Yasugi<br/>
