@@ -662,11 +662,13 @@ Tomoya Okuno, motonuko<br/>
 2511334 - Ayobami Joseph - JosephAyo </br>
 2511148 - YutoShimmyo </br>
 2511036 - Yuji Ueda - yujiponzu </br>
+2511357 - Hirotaka Monya　(id: catlover-bot) </br>
 2411406 - napoleon-na </br>
 2511218 - Sho-Niimura </br>
 2511205 - Daichi Nakagawa - Daichi343 </br>
 2511141 - Zhijian Zhang (id: JasonZhijian) </br>
 2511294 - Mori-Eish </br>
+2511357 - Hirotaka Monya　(id: catlover-bot) </br>
 2411420- RAHMAN MIZANUR - ovimizan09 <br/>
 2511218 - Sho-Niimura </br>
 2511198 - Tomizawa Satoru<br/>
