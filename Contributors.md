@@ -657,6 +657,7 @@ Tomoya Okuno, motonuko<br/>
 2511360 - Fakih Hamid </br>
 2511362 - Siyuan Liu (ryushien-z) </br>
 2411422 - himanshu-raturi </br>
+2411430 - YAMEOGO Kiswendsida Aristide Childeric - Lalabrook </br>
 2511334 - Ayobami Joseph - JosephAyo </br>
 2511148 - YutoShimmyo </br>
 2511036 - Yuji Ueda - yujiponzu </br>
