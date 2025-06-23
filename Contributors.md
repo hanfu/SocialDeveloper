@@ -644,6 +644,7 @@ Tomoya Okuno, motonuko<br/>
 2511055 - Hikaru Okamoto </br>
 2511295 - Hiroki Morichika - o955 </br>
 2511347 - Xinyu Zhang </br>
+2511180 - Masaru Tanibata </br>
 2511192 - Yuta Tsutsumi <br/>
 2511323 - Kan Watanabe (id:kan0803) </br>
 2511347 - Xinyu Zhang </br>
@@ -659,4 +660,5 @@ Tomoya Okuno, motonuko<br/>
 2511205 - Daichi Nakagawa - Daichi343 </br>
 2511141 - Zhijian Zhang (id: JasonZhijian) </br>
 2511294 - Mori-Eish </br>
+2511180 - Masaru Tanibata </br>
 2511246 - Suzuka Higashitsutsumi (id:suzuka215) </br>
